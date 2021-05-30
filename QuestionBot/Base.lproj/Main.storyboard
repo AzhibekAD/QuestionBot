@@ -64,7 +64,7 @@ Ask me a question.</string>
                                             <constraint firstAttribute="height" constant="44" id="vHD-Sh-HRm"/>
                                         </constraints>
                                         <state key="normal" title="Ask me something" backgroundImage="enabled">
-                                            <color key="titleColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                            <color key="titleColor" red="0.050980392156862744" green="0.45098039215686275" blue="0.46666666666666667" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                         </state>
                                         <state key="disabled" backgroundImage="disabled"/>
                                         <connections>
